@@ -1,3 +1,4 @@
+
 # Fundamentos-de-VR-AR-mediante-aplicaciones-Gr-ficas-3D-en-Android-utilizando-OpenGL
 Fundamentos de VR-AR mediante aplicaciones Gráficas 3D en Android utilizando OpenGL
 
@@ -6,3 +7,11 @@ Material y Presentacion del Taller Fundamentos de VR-AR mediante aplicaciones Gr
 Presentador: Dr. Marco Aurelio Nuno Maganda
 Universidad Politecnica de Victoria
 Fecha: 28 y 29 de Septiembre de 2023
+
+Actualizaciones (2026):
+* Agregar demo de CircleFan
+* Agregar demo de CilindroTexturizado
+* Lesson07-OpenGLESAndroid
+* Lesson08-OpenGLESAndroid
+* Particles
+* SkyBox
